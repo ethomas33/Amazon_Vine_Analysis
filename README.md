@@ -26,4 +26,4 @@ For the purpose of this analysis I chose to look at the apparel dataset but this
 
 # Summary: 
 
-In your summary, state if there is any positivity bias for reviews in the Vine program. Use the results of your analysis to support your statement. Then, provide one additional analysis that you could do with the dataset to support your statement.
+With the limited subset available with this dataset only 33 vine reviews of over 45,000 total reviews. There seems to be a closely correlated ratio of five star to non-five star reviews in both cases. 45% to 52%. Due to the limited number of reviews in the vine dataset I would do an analysis that looks more closely at those 33 products and investigate the reviews specifically associated with them comparing vine verses non vine reviews and see how they compare.
