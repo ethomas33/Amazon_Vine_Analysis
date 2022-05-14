@@ -9,19 +9,19 @@ For the purpose of this analysis I chose to look at the apparel dataset but this
     This dataset contains 33 vine reviews of which 15 of them are a 5 star reviews. This is a 45.5% five star review rate.
 
     All reviews:
-    ![Vine_reviews](https://github.com/ethomas33/Stock-analysis/blob/8f2a657b4abc4180cffc5d5b8bc452884608aa3a/Resources/2018_O.png)
+    ![Vine_reviews](https://github.com/ethomas33/Amazon_Vine_Analysis/blob/997a149389b8ff992cd1ce4ca7ee2bb83ab63e59/Challenge/Vine_reviews.PNG)
 
     Five star reviews: 
-    ![Vine_5star_reviews](https://github.com/ethomas33/Stock-analysis/blob/8f2a657b4abc4180cffc5d5b8bc452884608aa3a/Resources/2018_O.png)    
+    ![Vine_5star_reviews](https://github.com/ethomas33/Amazon_Vine_Analysis/blob/997a149389b8ff992cd1ce4ca7ee2bb83ab63e59/Challenge/Vine_5star_reviews.PNG)    
     
 - Non-Vine reviews:    
     This dataset 45,388 non-vine reviews of which 23,733 of them are 5 star reviews. That is a 52.3% five star review rate.
 
     All reviews:
-    ![NonVine_reviews](https://github.com/ethomas33/Stock-analysis/blob/8f2a657b4abc4180cffc5d5b8bc452884608aa3a/Resources/2018_O.png)
+    ![NonVine_reviews](https://github.com/ethomas33/Amazon_Vine_Analysis/blob/997a149389b8ff992cd1ce4ca7ee2bb83ab63e59/Challenge/NonVine_reviews.PNG)
 
     Five star reviews: 
-    ![NonVine_5star_reviews](https://github.com/ethomas33/Stock-analysis/blob/8f2a657b4abc4180cffc5d5b8bc452884608aa3a/Resources/2018_O.png)   
+    ![NonVine_5star_reviews](https://github.com/ethomas33/Amazon_Vine_Analysis/blob/997a149389b8ff992cd1ce4ca7ee2bb83ab63e59/Challenge/NonVine_5star_reviews.PNG)   
 
 
 # Summary: 
